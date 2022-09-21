@@ -2,3 +2,4 @@ Nama  : Feisal Al Jabbaar
 Stack : Front-end
 Branch: main
 tambah line di main
+Branch: sesiSore
